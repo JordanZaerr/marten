@@ -6,7 +6,7 @@
 
   "dependencies": {
     "Marten.Testing": { "target": "project" },
-    "Storyteller": "4.1.0-alpha-489"
+    "Storyteller": "4.1.0-alpha-491"
   },
 
   "tools": {
